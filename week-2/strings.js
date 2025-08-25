@@ -15,7 +15,7 @@ console.log(answer3);
 
 //escape characters 
 let text = "We are the so-called \"Vikings\" from the north.";
-let intro = "I\'m Kirabo Rebecca \"Becky\" from Uganda.";
+let intro = "I\'m Nanyonga Margret \"Maggie\" from Uganda.";
 console.log(text);
 console.log(intro);
 
@@ -34,8 +34,8 @@ Code	     Result
 //Breaking long lines: Is dona after an operator.
 
 // strings
-let firstName ="Rebecca";
-let lastName ="Kirabo";
+let firstName ="Margret";
+let lastName ="Nanyonga";
 let fullName ="firstName + lastName";
 console.log(firstName,lastName,fullName);
 
