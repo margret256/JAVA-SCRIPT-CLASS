@@ -63,7 +63,7 @@ Boolean Operators:
 Booleans are fundamental for controlling program flow in JavaScript.
 USAGE
 Clone this repository:
-git clone https://github.com/yourusername/js-basics.git
+git clone https://github.com/margret256/js-basics.git
 Open the examples in a browser or run them using Node.js:
 node filename.js
 
